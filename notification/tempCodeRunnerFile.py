@@ -1,0 +1,1 @@
+icon=r"C:\\Users\\domag\\Desktop\\PROGRAMI\\shorts\\notification\\youtube.ico")
